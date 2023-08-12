@@ -1,0 +1,21 @@
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    background-color: rgb(215, 108, 126);
+    text-shadow: 2px 2px 2px 2px white;
+    color: pink;
+}
+
+img{
+    width: 20rem;
+}
